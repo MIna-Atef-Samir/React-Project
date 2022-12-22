@@ -1,0 +1,7 @@
+.Home{
+    background-image: url('./assets/store.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
